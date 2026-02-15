@@ -14,5 +14,5 @@ AI/ML based regression model to predict household power consumption.
 Kaggle Household Power Consumption Dataset
 
 ## Author
-Lalit Ranwa
-MS Azure AICTE Intern
+Lalit Kumar
+Project Make During:- MS Azure AICTE Intern
